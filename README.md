@@ -1,2 +1,2 @@
-# genet-middleware-ex
+# genet-express
 Middleware to expressjs
