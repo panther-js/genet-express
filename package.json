@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/panther-js/genet-express/issues"
   },
-  "homepage": "https://github.com/panther-js/genet-express#readme"
+  "homepage": "https://github.com/panther-js/genet-express#readme",
+  "dependencies": {
+    "genet": "0.0.7"
+  }
 }
