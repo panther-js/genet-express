@@ -9,4 +9,3 @@ function genetExpress(options, next) {
 }
 
 module.exports = genetExpress;
-
